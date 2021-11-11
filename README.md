@@ -7,7 +7,7 @@ This repo contains boilerplate code for Full-stack NFT project.
  - [Metamask wallet Browser Extension](https://metamask.io/download)
 # Getting started
 ## Clone the repository
-Use `git clone https://github.com/LoboVH/nft-bazar.git` to get the files in this  repository onto your local machine.
+Use `git clone https://github.com/LoboVH/nft-bazar-Hardhat-solidity-Next.js-Polygon-IPFS.git` to get the files in this  repository onto your local machine.
 ## Environment set-up
 Make a duplicate of `.env.example` as `.env` and fillout the environment varaibles.
 Create a project in infura(or any other private RPC) and update the `PROJECT_ID` with Endpoint and also update `privatekey` with your Metamask private key.
